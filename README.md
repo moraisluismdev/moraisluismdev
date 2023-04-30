@@ -1,6 +1,6 @@
 ### Hi there  I'm LuisMDev👋
 
-<# 🖥️Terminal Commands
+# 🖥️Terminal Commands
 |   Command     |        Description         |
 |---------------|----------------------------|
 |     `pwd`     |  Print current directory   |
