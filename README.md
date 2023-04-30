@@ -1,6 +1,6 @@
 ### Hi there, I'm LuisMDev👋
 
-# 🖥️Terminal Commands
+### 🖥️ Terminal Commands
 |   Command     |        Description         |
 |---------------|----------------------------|
 |     `pwd`     |  Print current directory   |
@@ -9,7 +9,7 @@
 |     `rm`      |  Remove a file             |
 |     `cp`      |  Copy a file               |
 
-## ✂️ Command Alias
+### ✂️ Command Alias
 |   Alias   |     Command        |        Description          |
 |-----------|--------------------|-----------------------------|
 |   `cl`    |     `clear`        |       Clean Terminal        |
