@@ -1,16 +1,16 @@
 ### Hi there  I'm LuisMDev👋
 
-<!--
-**moraisluismdev/moraisluismdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<# 🖥️Terminal Commands
+|   Command     |        Description         |
+|---------------|----------------------------|
+|     `pwd`     |  Print current directory   |
+|     `ls`      |  List files or directories |
+|     `cd`      |  Change directory          |
+|     `rm`      |  Remove a file             |
+|     `cp`      |  Copy a file               |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✂️ Command Alias
+|   Alias   |     Command        |        Description          |
+|-----------|--------------------|-----------------------------|
+|   `cl`    |     `clear`        |       Clean Terminal        |
+|  `findd`  | `ls ~/ \| grep $1` |  Search a file or directory |
