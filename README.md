@@ -64,6 +64,9 @@ I am a developer passionate about creating robust and scalable solutions. I spec
 	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
 	</picture>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
+	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
+     alt="bash" width="60" height="60" 
+     style="filter: brightness(0) invert(1);">
 	<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60"/>
 </div>
 
